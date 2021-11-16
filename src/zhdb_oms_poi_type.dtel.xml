@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZHDB_OMS_POI_TYPE</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZHDB_OMS_POI_TYPE_D</DOMNAME>
+    <HEADLEN>08</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>08</SCRLEN3>
+    <DDTEXT>HDB OMS Demo POI Type</DDTEXT>
+    <REPTEXT>POI Type</REPTEXT>
+    <SCRTEXT_S>POI.Tp</SCRTEXT_S>
+    <SCRTEXT_M>POI Type</SCRTEXT_M>
+    <SCRTEXT_L>POI Type</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
